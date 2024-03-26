@@ -196,7 +196,7 @@
         <td>Solution</td>
     </tr>
     <tr>
-        <td rowspan="4">La recherche de partenaires de jeux : un obstacle à la reservation de terrains</td>
+        <td rowspan="8">La recherche de partenaires de jeux : un obstacle à la reservation de terrains</td>
         <td>Difficultés pour trouver des partenaires de jeu</td>
         <td><a href="#challenges-finding-partners">Mettre en place un système de jumelage pour aider les membres à trouver des partenaires de jeu appropriés</a></td>
     </tr>
@@ -292,6 +292,19 @@
   <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
   </a>
 </div>
+<p dir="auto">
+  <a 
+    target="_blank"
+    rel="noopener noreferrer" 
+    href="https://blog-tennis-concept.com/ecom/wp-content/uploads/2013/10/lego-tennis-par-partymonstrrrr.jpg"
+  >
+    <img 
+      src="https://blog-tennis-concept.com/ecom/wp-content/uploads/2013/10/lego-tennis-par-partymonstrrrr.jpgg" 
+      alt="difficultes pour trouver des partenaires" 
+      style="max-width: 100%;"
+    >
+  </a>
+</p>
 
 <div class="markdown-heading" dir="auto">
   <h2 tabindex="-1" class="heading-element" dir="auto" data-react-autofocus="true">🕘 Favoriser les horaires compatibles entre joueurs<a id="schedules-among-players"></a></h2>
@@ -299,6 +312,19 @@
   <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
   </a>
 </div>
+<p dir="auto">
+  <a 
+    target="_blank"
+    rel="noopener noreferrer" 
+    href="https://i0.wp.com/www.possibility.fr/wp-content/uploads/2024/01/Horaires-et-productivite-scaled.jpg?fit=2560%2C1463&ssl=1"
+  >
+    <img 
+      src="https://i0.wp.com/www.possibility.fr/wp-content/uploads/2024/01/Horaires-et-productivite-scaled.jpg?fit=2560%2C1463&ssl=1" 
+      alt="difficultes pour trouver des partenaires" 
+      style="max-width: 100%;"
+    >
+  </a>
+</p>
 
 <div class="markdown-heading" dir="auto">
   <h2 tabindex="-1" class="heading-element" dir="auto" data-react-autofocus="true">🎯 Concrétiser l’organisation des parties<a id="matches-organization"></a></h2>
@@ -306,6 +332,19 @@
   <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
   </a>
 </div>
+<p dir="auto">
+  <a 
+    target="_blank"
+    rel="noopener noreferrer" 
+    href="https://media.babolat.com/image/upload/f_auto,q_auto,c_crop,w_2000,h_751/Website_content/Badminton_News/02092020-Launch/collectif/maj/Banner_1365_510_1.png"
+  >
+    <img 
+      src="https://media.babolat.com/image/upload/f_auto,q_auto,c_crop,w_2000,h_751/Website_content/Badminton_News/02092020-Launch/collectif/maj/Banner_1365_510_1.png" 
+      alt="difficultes pour trouver des partenaires" 
+      style="max-width: 100%;"
+    >
+  </a>
+</p>
 
 <div class="markdown-heading" dir="auto">
   <h2 tabindex="-1" class="heading-element" dir="auto" data-react-autofocus="true">☑ Savoir lorsqu’une réservation est confirmée ou annulée<a id="booking-status"></a></h2>
@@ -313,6 +352,19 @@
   <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
   </a>
 </div>
+<p dir="auto">
+  <a 
+    target="_blank"
+    rel="noopener noreferrer" 
+    href="https://www.le-shaft.fr/wp-content/uploads/2021/05/qui-sommes-nous-2048x1152.jpg"
+  >
+    <img 
+      src="https://www.le-shaft.fr/wp-content/uploads/2021/05/qui-sommes-nous-2048x1152.jpg" 
+      alt="difficultes pour trouver des partenaires" 
+      style="max-width: 100%;"
+    >
+  </a>
+</p>
 
 <div class="markdown-heading" dir="auto">
   <h2 tabindex="-1" class="heading-element" dir="auto" data-react-autofocus="true">🗣️Communiquer avec les autres joueurs<a id="players-communication"></a></h2>
@@ -320,6 +372,19 @@
   <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
   </a>
 </div>
+<p dir="auto">
+  <a 
+    target="_blank"
+    rel="noopener noreferrer" 
+    href="https://stephane-abry-coaching.com/wp-content/uploads/2018/08/pablo-410.png"
+  >
+    <img 
+      src="https://stephane-abry-coaching.com/wp-content/uploads/2018/08/pablo-410.png" 
+      alt="difficultes pour trouver des partenaires" 
+      style="max-width: 100%;"
+    >
+  </a>
+</p>
 
 <div class="markdown-heading" dir="auto">
   <h2 tabindex="-1" class="heading-element" dir="auto" data-react-autofocus="true">🚫 L’utilisateur ne souhaite plus jouer avec un autre partenaire<a id="ban-player"></a></h2>
@@ -327,6 +392,19 @@
   <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg>
   </a>
 </div>
+<p dir="auto">
+  <a 
+    target="_blank"
+    rel="noopener noreferrer" 
+    href="https://www.auslogics.com/en/articles/wp-content/uploads/2023/10/How-to-Block-User-Access-to-Apps-and-Programs-on-a-Windows-PC--scaled.jpg"
+  >
+    <img 
+      src="https://www.auslogics.com/en/articles/wp-content/uploads/2023/10/How-to-Block-User-Access-to-Apps-and-Programs-on-a-Windows-PC--scaled.jpg" 
+      alt="difficultes pour trouver des partenaires" 
+      style="max-width: 100%;"
+    >
+  </a>
+</p>
 
 ### Built With
 
