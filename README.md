@@ -254,13 +254,23 @@
   L'un des membres de notre équipe pratique le badminton au sein du Bad's Club. Au cours de discussions avec différents membres du club, nous avons identifié une problématique majeure : les difficultés à trouver des partenaires de jeu. Cette difficulté peut décourager certains joueurs de pratiquer régulièrement leur sport favori et limiter les possibilités de jeu en dehors de leur cercle social habituel.
 </p>
 <p dir="auto">
-  Pour résoudre cette problématique, nous avons réfléchi à la création d'une application mobile dédiée au club. Cette application permettrait aux membres de créer leur profil et de définir leurs préférences, telles que leur sport préféré, leur niveau de jeu, leurs disponibilités et leurs préférences de jeu.
+  Pour résoudre cette problématique, nous avons réfléchi à la création d'une application mobile dédiée au club. Cette application permettrait aux membres de créer leur profil et de définir leurs préférences, telles que leur sport préféré, leur niveau de jeu et leurs disponibilités.
 </p>
 <p dir="auto">
-  Pour aider les membres du Bad's Club à trouver des partenaires de jeu adaptés à leurs besoins, nous avons également réfléchi à la création d'un système de matching au sein de l'application mobile. Ce système prendrait en compte les préférences sélectionnées par chaque membre, telles que leur niveau de jeu, leurs disponibilités et leurs préférences de jeu. Grâce à ce système de matching, les membres pourraient recevoir des suggestions de partenaires de jeu compatibles avec leur profil et filtrer les résultats en fonction de critères spécifiques, tels que l'âge, le sexe ou la localisation géographique.
+  Pour aider les membres du Bad's Club à trouver des partenaires de jeu adaptés à leurs besoins, nous avons également réfléchi à la création d'un système de matching au sein de l'application mobile. Ce système prendrait en compte les préférences mentionnées précédemment sélectionnées par l'utilisateur. Grâce à ce système de matching, les membres pourraient recevoir des suggestions de partenaires de jeu compatibles avec leur profil et trouver un parner pour pratiquer le sport choisi.
 </p>
 <p dir="auto">
-  Ce système de matching encouragerait la découverte de nouveaux partenaires de jeu et élargirait les possibilités de jeu pour les membres du club. De plus, il permettrait de gagner du temps dans la recherche de partenaires de jeu adaptés et de maximiser le temps de jeu effectif sur les terrains.
+  Pour pouvoir mettre en place le système de mise en relation dans l'application mobile du Bad's Club, il est nécessaire que les utilisateurs puissent créer leur profil en fournissant certaines informations de base. Voici les éléments qui devraient être inclus dans le profil utilisateur :
+</p>
+<ul>
+  <li><strong>Pseudo :</strong> chaque utilisateur devrait pouvoir choisir un nom d'utilisateur unique qui l'identifie dans l'application.</li>
+  <li><strong>Niveau d'expérience :</strong> il est important que les utilisateurs indiquent leur niveau d'expérience dans le sport qu'ils pratiquent, afin de pouvoir trouver des partenaires de jeu compatibles avec leur niveau.</li>
+  <li><strong>Sport(s) pratiqués :</strong> les utilisateurs devraient pouvoir sélectionner le sport ou les sports qu'ils pratiquent.</li>
+  <li><strong>Disponibilité :</strong> les utilisateurs devraient pouvoir indiquer leur disponibilité pour jouer, y compris les jours et les heures auxquels ils sont disponibles.</li>
+  <li><strong>Photo de profil :</strong> la photo de profil est facultative, mais elle peut aider les autres utilisateurs à reconnaître plus facilement leur partenaire de jeu potentiel.</li>
+</ul>
+<p dir="auto">
+  En recueillant ces informations, le système de mise en relation encouragerait la découverte de nouveaux partenaires de jeu et élargirait les possibilités de jeu pour les membres du club avec les préférences de chaque utilisateur, ce qui facilitera la recherche de partenaires de jeu adaptés à leurs besoins et à leur niveau.
 </p>
 <p dir="auto">
   En somme, la création d'une application mobile dédiée au club et d'un système de matching au sein de celle-ci pourrait aider à résoudre la problématique de la recherche de partenaires de jeu, tout en offrant une expérience de jeu plus personnalisée et efficace aux membres du Bad's Club. Cela encouragerait également la convivialité et la création de liens entre les membres du club.
